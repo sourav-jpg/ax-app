@@ -1,0 +1,24 @@
+{
+  "comments": [
+    {
+      "course": "mernstack",
+      "trainer": "rahul",
+      "id": 1
+    },
+    {
+      "course": "nodejs",
+      "trainer": "umashankar",
+      "id": 2
+    },
+    {
+      "course": "qwer",
+      "trainer": "asdfg",
+      "id": 3
+    },
+    {
+      "course": "nodejs",
+      "trainer": "umashankar",
+      "id": 4
+    }
+  ]
+}
